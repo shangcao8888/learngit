@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1521162439472_0" label="roncoo-pay" name="roncoo-pay">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-app-order-polling" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-app-notify" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-web-merchant" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-web-gateway" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-common-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-app-settlement" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-app-reconciliation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/roncoo-pay-web-boss" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1521163120090_1" label="Window Working Set" name="Aggregate for window 1521163120089"/>
+</workingSetManager>

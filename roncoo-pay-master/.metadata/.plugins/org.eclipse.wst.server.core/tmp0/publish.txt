@@ -1,0 +1,8 @@
+#Tomcat publish data
+#Mon Apr 23 10:34:51 CST 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Administrator\\.m2\\repository\\org\\springframework\\spring-web\\4.2.6.RELEASE\\spring-web-4.2.6.RELEASE.jar=D\:\\KFHJ\\apache-tomcat-7.0.50-2\\webapps\\roncoo-pay-web-sample-shop\\WEB-INF\\lib\\spring-web-4.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Administrator\\.m2\\repository\\org\\springframework\\spring-web\\3.2.4.RELEASE\\spring-web-3.2.4.RELEASE.jar=D\:\\KFHJ\\apache-tomcat-7.0.50-2\\webapps\\roncoo-pay-web-gateway\\WEB-INF\\lib\\spring-web-3.2.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:roncoo-pay-service=D\:\\KFHJ\\apache-tomcat-7.0.50-2\\webapps\\roncoo-pay-web-gateway\\WEB-INF\\lib\\roncoo-pay-service-2.0.0-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:roncoo-pay-web-gateway=D\:\\KFHJ\\apache-tomcat-7.0.50-2\\webapps\\roncoo-pay-web-gateway
+org.eclipse.jst.j2ee.server\:roncoo-pay-common-core=D\:\\KFHJ\\apache-tomcat-7.0.50-2\\webapps\\roncoo-pay-web-gateway\\WEB-INF\\lib\\roncoo-pay-common-core-2.0.0-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:roncoo-pay-web-sample-shop=D\:\\KFHJ\\apache-tomcat-7.0.50-2\\webapps\\roncoo-pay-web-sample-shop
