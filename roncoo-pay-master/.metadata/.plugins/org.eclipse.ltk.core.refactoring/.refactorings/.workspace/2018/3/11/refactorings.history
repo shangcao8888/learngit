@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete 10 resources" deleteContents="false" description="Delete 10 resources" element1="/roncoo-pay-app-notify" element10="/roncoo-pay-web-sample-shop" element2="/roncoo-pay-app-order-polling" element3="/roncoo-pay-app-reconciliation" element4="/roncoo-pay-app-settlement" element5="/roncoo-pay-common-core" element6="/roncoo-pay-service" element7="/roncoo-pay-web-boss" element8="/roncoo-pay-web-gateway" element9="/roncoo-pay-web-merchant" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="10" stamp="1521165406256"/>
-</session>
